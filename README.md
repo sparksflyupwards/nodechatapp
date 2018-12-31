@@ -1,1 +1,1 @@
-"# nodechatapp" 
+The goal of this project is to build a chat application that allows users to send speech-to-text transcribed audio messages to each other in group and one on one chat. This app is currently under construction!
